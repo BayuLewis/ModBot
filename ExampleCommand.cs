@@ -14,6 +14,6 @@ public class ExampleCommand : ModuleBase<SocketCommandContext>
         await ReplyAsync("Hey!");
     }
     
-    // If you know how to add a command that add a bad word to the .json file, feel free top contribute.
+    // If you know how to add a command that add a bad word to the .json file, feel free to contribute.
     
 }
